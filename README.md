@@ -1,4 +1,4 @@
-# ShareIt
+# File Sharing Platform
 
 Full-stack file sharing app
 
@@ -20,15 +20,14 @@ Provide password to access file(s) \
 ![img](https://github.com/nemzyxt/ShareIt/blob/main/scrshots/access.png)
 File(s) access granted \
 ![img](https://github.com/nemzyxt/ShareIt/blob/main/scrshots/accessed.png)
-Open file(s) \
-![img](https://github.com/nemzyxt/ShareIt/blob/main/scrshots/opened.png)
+
 
 ## Setup
 
 - Clone this repository
 
 ```
-git clone https://github.com/nemzyxt/ShareIt
+git clone [https://github.com/nemzyxt/ShareIt](https://github.com/Vasusn/File-Sharing-Platform.git)
 ```
 
 - In the frontend directory, run this command to install dependencies
@@ -60,4 +59,28 @@ npm start
 ```
 
 - Open the provided URL to access the site
-#
+## Contributing
+
+1. Fork the repository.
+2. Create your feature branch:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+5. Open a pull request.
+
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out via [vasunageshri@gmail.com](mailto:vasunageshri@gmail.com).
+
+---
+
+Happy coding!
