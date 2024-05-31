@@ -27,7 +27,7 @@ File(s) access granted \
 - Clone this repository
 
 ```
-git clone [https://github.com/nemzyxt/ShareIt](https://github.com/Vasusn/File-Sharing-Platform.git)
+git clone [https://github.com/Vasusn/File-Sharing-Platform.git]
 ```
 
 - In the frontend directory, run this command to install dependencies
